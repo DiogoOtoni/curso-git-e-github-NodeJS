@@ -1,1 +1,0 @@
-console.log("nao quero voce");
