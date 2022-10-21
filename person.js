@@ -1,13 +1,13 @@
-class Person{
+class Person {
     constructor(name){
         this.name = name;
     }
 
     sayMyName(){
-        return `My name is ${this.name}!`;
+        return `meu nominho é ${this.name}!`;
     }
 }
 
-module.exports = {
+module.exports = { //export objetos, pode ser unica coisa tambem, sem chves
     Person,
 };
